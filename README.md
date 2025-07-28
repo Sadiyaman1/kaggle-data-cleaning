@@ -6,10 +6,14 @@ The course focuses on essential data cleaning skills in Python, using pandas.
 ---
 
 ## 📁 Repository Structure
-notebook/ # My final Jupyter Notebook with all course exercises
-data/ # Any raw or cleaned datasets used
-output/ # Optional output files (e.g. CSVs, visualizations)
-certificate/ # Completion certificate (PNG)
+
+```
+notebook/     # My final Jupyter Notebook with all course exercises  
+data/         # Any raw or cleaned datasets used  
+output/       # Optional output files (e.g. CSVs, visualizations)  
+certificate/  # Completion certificate (PNG)  
+```
+
 
 ---
 
